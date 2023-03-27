@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/AWS Lambda-#FF9900style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ###### Contect Me🙏
-<a href="https://www.instagram.com/jwoos99"><img src="https://img.shields.io/badge/blueviolet?style=flat-square&logo=#E4405F&logoColor=white&link=[내링크](https://www.instagram.com/jwoos99)"/></a>&nbsp
+<a href="https://www.instagram.com/jwoos99"><img src="https://img.shields.io/badge/blueviolet?style=flat-square&logo=#E4405F&logoColor=white&link=https://www.instagram.com/jwoos99"/></a>&nbsp
 
-####### jwos0705@gmail.com 
+jwos0705@gmail.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=actorjung&show_icons=true&theme=radical)
 
