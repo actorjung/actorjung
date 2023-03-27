@@ -20,7 +20,7 @@
 
 ***
 
-#### Contect Me💬
+#### Contect Me 💬
 <a href="https://www.instagram.com/jwoos99"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jwoos99"/></a>
 jwos0705@gmail.com 
 
