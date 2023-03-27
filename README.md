@@ -3,7 +3,7 @@
 
 ***
 
-#### ⭐️Tech Stack⭐️
+#### Tech Stack
 ###### Tech that I've used at least once
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/></a> 
@@ -13,14 +13,14 @@
 
 ***
 
-#### 💜Interesting Thing💜
+#### Interesting Thing
 * Data Processing
 * Big Data
 * AI
 
 ***
 
-#### 🙏Contect Me🙏
+#### Contect Me💬
 <a href="https://www.instagram.com/jwoos99"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jwoos99"/></a>
 jwos0705@gmail.com 
 
