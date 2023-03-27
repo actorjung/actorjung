@@ -5,13 +5,13 @@
 ##### ⭐️Tech Stack⭐️
 ###### Tech that I've used at least once
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=blue"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Django-#092E20style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/elasticsearch-Elasticsearchstyle=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/AWS Lambda-#FF9900style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Elasticsearch-style=flat-square&logo=Elasticsearch&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/AWS Lambda-FF9900style=flat-square&logo=AWS Lambda&logoColor=white"/></a>&nbsp 
 
 ###### Contect Me🙏
-<a href="https://www.instagram.com/jwoos99"><img src="https://img.shields.io/badge/blueviolet?style=flat-square&logo=#E4405F&logoColor=white&link=https://www.instagram.com/jwoos99"/></a>&nbsp
+<a href="https://www.instagram.com/jwoos99"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jwoos99"/></a>&nbsp
 
 jwos0705@gmail.com 
 
